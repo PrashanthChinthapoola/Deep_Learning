@@ -1,0 +1,23 @@
+What you'll do:
+
+You will be working alongside other engineers and data scientists to collaborate on various features of our eCommerce platform within an Agile environment. Overall, you will be working on a team that is driving innovation in a greenfield marketplace to create and maintain our best-in-class global software platform!
+
+Write high-level, well-documented code in Scala, Python and SQL
+Build data pipelines that range from simple to complex, using technologies like Apache Airflow, EMR, AWS Lambda, Glue, Step Functions, EventBridge, Snowflake, Pyspark and other ETL tools.
+Work with a mix of structured and unstructured data across cloud-based batch and streaming architectures
+Engage directly with technical analysts, project managers, and other technical teams to help build concise requirements and ensure timely completion of projects
+Work with Git, CI/CD, and version control to maintain code and documentation
+Design and vet solutions for technical problems, and solicit team feedback during the design process
+Mentor, manage, train, and participate in paired programming in a senior capacity
+
+Who you are:
+
+Must have experience with version control, GitHub, and software development life cycle
+5 years' experience developing with Scala, Java or Python
+5 years' experience with SQL and data modeling
+Demonstrated experience interacting with RESTful APIs
+Experience with data pipelines / batch automation in at least one major technology (e.g., Apache Airflow)
+Experience with streaming technologies (Kafka, kinesis, etc.)
+Experience with AWS and their technologies (EC2, S3, Glue, Athena, lambda, eventbridge, step functions, sqs)
+Experience working in an agile development environment
+Familiarity with Jira and Confluence
