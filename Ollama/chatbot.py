@@ -9,6 +9,13 @@ import numpy as np
 import faiss
 from sklearn.preprocessing import normalize
 
+import sys
+import types
+import torch
+torch.classes = types.SimpleNamespace()
+sys.modules['torch.classes'] = torch.classes
+
+os.environ["STREAMLIT_DISABLE_FILE_WATCHER"] = "true"
 # Configuration
 st.set_page_config(page_title="Chatbot", page_icon="💬", layout="wide")
 
